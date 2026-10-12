@@ -15,9 +15,10 @@
 
 📷 **個人照片：**
 
-<img src="image/image1.jpg" alt="個人照片" width="300">
+<img src="image/profile.jpg" alt="個人照片" width="300">
 
----
+---<img width="3024" height="4032" alt="BA25DC93-C76E-4610-A01F-F29F24B68C5B" src="https://github.com/user-attachments/assets/4395ee16-b033-4966-9602-429669618272" />
+
 
 ## 2. 關於我 About Me
 
